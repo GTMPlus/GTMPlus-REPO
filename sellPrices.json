@@ -2,7 +2,7 @@
   "Knife": 1375.0,
   "Stun Gun": 3000.0,
   "Grenade": 2000.0,
-  "Air": 1375.0,
+  "Air": 0.0,
   "Poptart": 90.0,
   "Sushi": 75.0,
   "Pistol": 420.0,
@@ -55,5 +55,11 @@
   "Black Ops Boots": 300.0,
   "Sniper Rifle": 4550.0,
   "Chanclas": 35000.0,
-  "Flamethrower": 25000.0
+  "Flamethrower": 25000.0,
+  "Chainsaw": 4125.0,
+  "Gusenberg Sweeper": 3325.0,
+  "Dildo": 35000.0,
+  "Jetpack": 100000.0,
+  "Wingsuit": 80000.0,
+  "Head": 10000.0
 }
