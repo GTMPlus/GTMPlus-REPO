@@ -1,7 +1,7 @@
 {
   "Knife": 1375.0,
   "Stun Gun": 3000.0,
-  "Grenade": 2000.0,
+  "Grenade": 400.0,
   "Air": 0.0,
   "Poptart": 90.0,
   "Sushi": 75.0,
@@ -71,5 +71,6 @@
   "Homing Launcher": 12600.0,
   "SMG": 1820.0,
   "Heavy Shotgun": 13250.0,
-  "Kwon\u0027s Booty Shorts": 600.0
+  "Kwon\u0027s Booty Shorts": 600.0,
+  "Chicken Soup": 20.0
 }
